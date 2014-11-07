@@ -1,0 +1,2 @@
+pyyaml==3.10
+setuptools==0.6c11
